@@ -1,0 +1,27 @@
+---
+id: 70825459
+name: Trap Tracks
+type: Trap Card
+frameType: trap
+desc: Target 1 monster you control; destroy it, and if you do, Set 1 Normal Trap directly
+  from your Deck, except "Trap Tracks". It can be activated this turn. You can only
+  activate 1 Trap Card for the rest of this turn after this card resolves. You can
+  only activate 1 "Trap Tracks" per turn.
+race: Normal
+card_sets:
+- set_name: Cyberstorm Access
+  set_code: CYAC-EN078
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+card_images:
+- id: 70825459
+  image_url: https://images.ygoprodeck.com/images/cards/70825459.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/70825459.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/70825459.jpg
+card_prices:
+- cardmarket_price: '0.14'
+  tcgplayer_price: '0.14'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.25'

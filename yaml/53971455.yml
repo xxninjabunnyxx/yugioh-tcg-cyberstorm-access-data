@@ -1,0 +1,44 @@
+---
+id: 53971455
+name: Despian Luluwalilith
+type: Synchro Monster
+frameType: synchro
+desc: "1 Level 4 Tuner + 1+ non-Tuner monsters\r\nOnce per turn, if a card(s) leaves
+  either Extra Deck (except during the Damage Step): You can make all face-up monsters
+  you currently control gain 500 ATK, then you can negate the effects of 1 face-up
+  card on the field until the end of this turn. During the End Phase, if this card
+  is in the GY because it was sent there this turn: You can Special Summon 1 LIGHT
+  Spellcaster monster whose ATK equals its own DEF from your hand or Deck. You can
+  only use this effect of \"Despian Luluwalilith\" once per turn."
+atk: 2500
+def: 2500
+level: 12
+race: Spellcaster
+attribute: LIGHT
+archetype: Despia
+card_sets:
+- set_name: Cyberstorm Access
+  set_code: CYAC-EN042
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '0'
+- set_name: Cyberstorm Access
+  set_code: CYAC-EN042
+  set_rarity: Starlight Rare
+  set_rarity_code: "(StR)"
+  set_price: '0'
+card_images:
+- id: 53971455
+  image_url: https://images.ygoprodeck.com/images/cards/53971455.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/53971455.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/53971455.jpg
+- id: 53971455
+  image_url: https://images.ygoprodeck.com/images/cards/53971455.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/53971455.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/53971455.jpg
+card_prices:
+- cardmarket_price: '18.78'
+  tcgplayer_price: '13.89'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '19.99'

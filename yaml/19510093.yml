@@ -1,0 +1,43 @@
+---
+id: 19510093
+name: Superheavy Samurai Monk Big Benkei
+type: Pendulum Effect Monster
+frameType: effect_pendulum
+desc: "[ Pendulum Effect ] \n[ Monster Effect ] If you have no Spells/Traps in your
+  GY: You can send 1 \"Superheavy Samurai Big Benkei\" from your hand or Deck to the
+  GY, and if you do, Special Summon this card from your hand. If this card is used
+  as Synchro Material and added to your Extra Deck face-up: You can place this card
+  in your Pendulum Zone. You can only use each effect of \"Superheavy Samurai Monk
+  Big Benkei\" once per turn."
+pend_desc: 'If you control a "Superheavy Samurai" monster: You can add 1 "Superheavy
+  Samurai Soul" monster from your Deck to your hand. You can only use this effect
+  of "Superheavy Samurai Monk Big Benkei" once per turn.'
+monster_desc: 'If you have no Spells/Traps in your GY: You can send 1 "Superheavy
+  Samurai Big Benkei" from your hand or Deck to the GY, and if you do, Special Summon
+  this card from your hand. If this card is used as Synchro Material and added to
+  your Extra Deck face-up: You can place this card in your Pendulum Zone. You can
+  only use each effect of "Superheavy Samurai Monk Big Benkei" once per turn.'
+atk: 1000
+def: 3500
+level: 8
+race: Machine
+attribute: EARTH
+archetype: Superheavy Samurai
+scale: 1
+card_sets:
+- set_name: Cyberstorm Access
+  set_code: CYAC-EN007
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+card_images:
+- id: 19510093
+  image_url: https://images.ygoprodeck.com/images/cards/19510093.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/19510093.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/19510093.jpg
+card_prices:
+- cardmarket_price: '0.16'
+  tcgplayer_price: '0.12'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.39'

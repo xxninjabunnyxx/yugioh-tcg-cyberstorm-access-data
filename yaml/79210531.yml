@@ -1,0 +1,33 @@
+---
+id: 79210531
+name: Tellarknight Lyran
+type: Effect Monster
+frameType: effect
+desc: "(This card is always treated as a \"Constellar\" card.)\r\nIf a \"tellarknight\"
+  or \"Constellar\" monster is Normal Summoned to your field, except \"Tellarknight
+  Lyran\" (except during the Damage Step): You can Special Summon this card from your
+  hand. If this card is Summoned: You can add 1 \"tellarknight\" Spell from your Deck
+  to your hand. You can only use each effect of \"Tellarknight Lyran\" once per turn."
+atk: 1200
+def: 1600
+level: 4
+race: Warrior
+attribute: LIGHT
+archetype: Constellar
+card_sets:
+- set_name: Cyberstorm Access
+  set_code: CYAC-EN021
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '0'
+card_images:
+- id: 79210531
+  image_url: https://images.ygoprodeck.com/images/cards/79210531.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/79210531.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/79210531.jpg
+card_prices:
+- cardmarket_price: '0.23'
+  tcgplayer_price: '0.17'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '1.49'

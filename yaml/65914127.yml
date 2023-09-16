@@ -1,0 +1,28 @@
+---
+id: 65914127
+name: Pendulum Pendant
+type: Spell Card
+frameType: spell
+desc: Banish 5 face-up Pendulum Monsters from your Extra Deck; place 1 Pendulum Monster
+  from your Deck or face-up Extra Deck in your Pendulum Zone. You can banish this
+  card from your GY, then target 1 card in any Pendulum Zone; reduce its Pendulum
+  Scale by 1 (min. 0). You can only activate 1 "Pendulum Pendant" per turn.
+race: Normal
+archetype: Pendulum
+card_sets:
+- set_name: Cyberstorm Access
+  set_code: CYAC-EN084
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+card_images:
+- id: 65914127
+  image_url: https://images.ygoprodeck.com/images/cards/65914127.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/65914127.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/65914127.jpg
+card_prices:
+- cardmarket_price: '0.07'
+  tcgplayer_price: '0.03'
+  ebay_price: '0.99'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.49'

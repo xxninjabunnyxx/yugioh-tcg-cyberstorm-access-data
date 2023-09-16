@@ -1,0 +1,34 @@
+---
+id: 83334932
+name: Superheavy Samurai Motorbike
+type: Tuner Monster
+frameType: effect
+desc: 'If you have no Spells/Traps in your GY: You can discard this card; add 1 "Superheavy
+  Samurai" monster from your Deck to your hand, except "Superheavy Samurai Motorbike".
+  You can only use this effect of "Superheavy Samurai Motorbike" once per turn. Once
+  per turn: You can target 1 Machine monster you control; increase its Level by 2.'
+atk: 800
+def: 1200
+level: 2
+race: Machine
+attribute: EARTH
+archetype: Superheavy Samurai
+card_sets:
+- set_name: Cyberstorm Access
+  set_code: CYAC-EN003
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+banlist_info:
+  ban_ocg: Semi-Limited
+card_images:
+- id: 83334932
+  image_url: https://images.ygoprodeck.com/images/cards/83334932.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/83334932.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/83334932.jpg
+card_prices:
+- cardmarket_price: '0.17'
+  tcgplayer_price: '0.11'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.39'

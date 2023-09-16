@@ -1,0 +1,36 @@
+---
+id: 28497830
+name: Gold Pride - Pin Baller
+type: Fusion Monster
+frameType: fusion
+desc: "\"Gold Pride - Roller Baller\" + 1+ \"Gold Pride\" monsters\r\nIf this card
+  is Fusion Summoned: You can equip face-up monsters your opponent controls to it,
+  up to the number of Fusion Materials used. You can only use the previous effect
+  of \"Gold Pride - Pin Baller\" once per turn, also, if your LP are lower than your
+  opponent's, the effect's activation and effect cannot be negated. Once per turn,
+  during the End Phase, if the previous effect was activated this turn: Return this
+  card to the Extra Deck, and if you do, Special Summon 1 \"Gold Pride - Roller Baller\"
+  from your Deck or GY."
+atk: 3000
+def: 0
+level: 9
+race: Machine
+attribute: DARK
+archetype: Gold Pride
+card_sets:
+- set_name: Cyberstorm Access
+  set_code: CYAC-EN087
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '0'
+card_images:
+- id: 28497830
+  image_url: https://images.ygoprodeck.com/images/cards/28497830.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/28497830.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/28497830.jpg
+card_prices:
+- cardmarket_price: '0.54'
+  tcgplayer_price: '0.52'
+  ebay_price: '1.97'
+  amazon_price: '0.00'
+  coolstuffinc_price: '3.99'

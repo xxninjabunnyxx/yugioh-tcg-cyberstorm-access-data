@@ -1,0 +1,30 @@
+---
+id: 54670997
+name: Gold Pride - Better Luck Next Time!
+type: Spell Card
+frameType: spell
+desc: 'When this card is activated: You can add 1 "Gold Pride" monster from your Deck
+  to your hand, and if you do, lose LP equal to its ATK. If a face-up "Gold Pride"
+  monster(s) you control that was Special Summoned from the Extra Deck returns to
+  the Extra Deck (except during the Damage Step): You can draw 1 card. You can only
+  use this effect of "Gold Pride - Better Luck Next Time!" once per turn. You can
+  only activate 1 "Gold Pride - Better Luck Next Time!" per turn.'
+race: Continuous
+archetype: Gold Pride
+card_sets:
+- set_name: Cyberstorm Access
+  set_code: CYAC-EN091
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '0'
+card_images:
+- id: 54670997
+  image_url: https://images.ygoprodeck.com/images/cards/54670997.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/54670997.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/54670997.jpg
+card_prices:
+- cardmarket_price: '7.65'
+  tcgplayer_price: '8.57'
+  ebay_price: '15.99'
+  amazon_price: '0.00'
+  coolstuffinc_price: '19.99'
